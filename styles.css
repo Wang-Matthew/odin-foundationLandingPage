@@ -1,0 +1,11 @@
+.wholePage {
+    display: flex;
+    flex-direction: column;
+}
+
+.wholePage section {
+    background: peachpuff;
+    height: 100px;
+    border-color: 4px black;
+    flex: 1;
+}
